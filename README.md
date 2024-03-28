@@ -27,3 +27,5 @@ EX: C:\DomainBackups\ADMX-2024-02-25\Local-ADMXBackup    and	  C:\DomainBackups\
 ADMXandGPO-Backup.ps1 -BackupPath "C:\DomainBackups" -GPO -ADMX
 This command would backup both Group Policy Objects and ADMX files to C:\DomainBackups\ 
 EX: C:\DomainBackups\GPOBackup-2024-02-25\ , C:\DomainBackups\ADMX-2024-02-25\Local-ADMXBackup  and  C:\DomainBackups\ADMX-2024-02-25\SYSVOL-ADMXBackup
+
+I like to write little scripts that make SysAdmin lives easier. If you like what I do consider supporting me! https://www.buymeacoffee.com/hydrophobia
