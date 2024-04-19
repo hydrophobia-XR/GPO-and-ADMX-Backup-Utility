@@ -1,7 +1,7 @@
 
 # DESCRIPTION
 It's a good idea to periodically backup ADMX files and/or Group Policy configurations. Especially before updating your DC or importing new ADMX files. 
-This script makes that a little simpler and can be used to automate the process via a scheduled task if so desired. THis script automatically grabs the domain name of the Domain Controller you run it on
+This script makes that a little simpler and can be used to automate the process via a scheduled task if so desired. This script automatically grabs the domain name of the Domain Controller you run it on
 
 ### PARAMETER BackupPath 
 (Mandatory)
